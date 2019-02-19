@@ -28,7 +28,7 @@ arg.forEach(function(a) {
         break;
       case "redirect_uris":
         settings.redirectUri = key[1];
-        settings.port = url.parse(settings.redirectUri).port || 80
+        settings.port = url.parse(settings.redirectUri).port || 8080
         settings.path = url.parse(settings.redirectUri).path || "/oauth2callback"
         break;
   }
