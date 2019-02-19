@@ -19,10 +19,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/braathen/qlik-auth-google.git"
+    "url": "git://github.com/charlseo/qlik-auth-google.git"
   },
-  "homepage": "https://github.com/braathen/qlik-auth-google",
+  "homepage": "https://github.com/charlseo/qlik-auth-google",
   "bugs": {
-    "url": "https://github.com/braathen/qlik-auth-google/issues"
+    "url": "https://github.com/charlseo/qlik-auth-google/issues"
   }
 }
